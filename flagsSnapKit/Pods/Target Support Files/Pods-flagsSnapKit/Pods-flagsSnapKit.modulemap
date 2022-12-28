@@ -1,0 +1,6 @@
+framework module Pods_flagsSnapKit {
+  umbrella header "Pods-flagsSnapKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
